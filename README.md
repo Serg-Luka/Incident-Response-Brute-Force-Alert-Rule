@@ -112,7 +112,7 @@ I navigated to the Assets tab, selected Devices, located the affected device(s),
 **Removing the threat:**
 
 ➡️ NSG was locked down to prevent RDP attempts from the public internet.<br>
-➡️ Corporate policy was proposed to require this for all VMs going forward. (this can be done with Azure Policy)<br>
+➡️ Corporate policy was proposed to require this for all VMs going forward. (This can be done with Azure Policy)<br>
 
 Brute force was not successful, so no threats related to this incident.
 
